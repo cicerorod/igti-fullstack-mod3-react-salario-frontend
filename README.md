@@ -37,7 +37,7 @@ A aplicação necessita da API para retorno da votação. O Código pode ser bai
 
 ## ![](https://img.icons8.com/ios-glyphs/20/000000/pull-request.png) Contribuições
 
-1. Faça o _fork_ do projeto (<https://github.com/cicerorod/igti-fullstack-mod3-react-controle-de-notas-frontend-hooks/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/cicerorod/igti-fullstack-mod3-react-salario-frontend/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/[nome]`)
 3. Faça o _commit_ (`git commit -am 'Add files [nome]'`)
 4. _Push_ (`git push origin feature/[nome]`)
